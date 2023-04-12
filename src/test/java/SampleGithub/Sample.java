@@ -8,6 +8,9 @@ public class Sample {
 	
 	public void printStatement() {
 		System.out.println("hellow");
+		System.out.println("hii");
+		
+		
 	}
 
 }
